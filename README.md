@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning ...
 - 👒 Read my blog1 : https://www.cnblogs.com/***/ .
 - 📃 Read my wechat article : https://**.club/ .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: dotnet5.devops@gamil.com  
+- 💞️ I’m looking to collaborate, 📫 how to reach me: dotnet5.devops@gamil.com
 - 💬 His profile: https://**.club
 - 📕《ASP.NET Core开发入门与实战》: https://**.html
 - 🎉 Most Valuable Software: 
