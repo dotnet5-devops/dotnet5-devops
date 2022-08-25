@@ -1,6 +1,6 @@
 ### Hi there 👯
 
-- 👋 I’m Microsun. a dotnet software engineer. 💬 His profile: https://**.club
+- 👋 I’m microsun is a dotnet software engineer. 💬 His profile: https://**.club
 - 👀 The main technology stack is: I’m interested in dotnet + vue...
 - 🌱 I’m currently learning ...
 - 👒 Read my blog1 : https://www.cnblogs.com/***/ .
