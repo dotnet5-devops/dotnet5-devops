@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👯
 
 - 👋 I’m Microsun. A dotnet software engineer .
 - 👀 The main technology stack is: I’m interested in dotnet + vue...
